@@ -1,4 +1,5 @@
 ## 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have a nice day!)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-77&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-77&layout=donut&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77&title=-Reviews&theme=algolia)
