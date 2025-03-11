@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-77&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-77&theme=react-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-77&theme=tokyonight)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77&title=-Reviews&theme=algolia)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77&theme=react-dark)
 
