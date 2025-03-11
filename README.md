@@ -6,7 +6,8 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77&title=-Reviews&theme=algolia)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77&theme=react-dark)
 
-![visitors](https://visitor-badge.glitch.me/badge?Chen-77=visitor&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=visitor&left_color=green&right_color=red)
+
 
 <!--
 **Chen-77/Chen-77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
