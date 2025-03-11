@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-77)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77)
 ![visitors](https://visitor-badge.glitch.me/badge?Chen-77=Chen-77.visitor-badge&left_color=green&right_color=red)
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77&theme=react-dark)
 
 
 
