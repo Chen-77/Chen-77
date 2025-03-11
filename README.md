@@ -6,7 +6,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77&title=-Reviews&theme=algolia)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77&theme=react-dark)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=visitor&left_color=green&right_color=red)
 
 
 <!--
