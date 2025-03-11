@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-77&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chen-77&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chen-77)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Chen-77&title=-Reviews&theme=algolia)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Chen-77&theme=react-dark)
